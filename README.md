@@ -24,8 +24,9 @@
 
 <!-- Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sheetal-ahuja/sheetal-ahuja/main/assets/animation.svg" alt="Animation" width="400"/>
+  <img src="animation.gif" alt="Cartoon Girl Coding" width="400"/>
 </p>
+
 
 ---
 
