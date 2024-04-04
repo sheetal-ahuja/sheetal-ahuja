@@ -24,7 +24,7 @@
 
 <!-- Animation -->
 <p align="center">
-  <img src="animation.gif" alt="Cartoon Girl Coding" width="400"/>
+  <img src="animation-unscreen.gif" alt="Cartoon Girl Coding" width="400"/>
 </p>
 
 
