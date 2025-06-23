@@ -1,21 +1,38 @@
 # 👋 Hi, I'm Sheetal Ahuja
 
-Final-year Computer Science student at TIET, Patiala  
-Aspiring Data Engineer | Passionate about Cloud, ML, and Scalable Systems
+🎓 Final-year Computer Science student at TIET, Patiala  
+🚀 Passionate about Data Engineering, Machine Learning & Cloud Technologies  
+🌱 Currently exploring scalable systems and intelligent data platforms
 
 ---
 
-## 🔧 Skills
+## 🔧 Tech Stack
 
-**Languages:** Python, SQL, C++, Dart  
-**Tools & Tech:** PySpark, TensorFlow, Firebase, BigQuery, GCP, AWS, Flutter  
-**Domains:** Data Engineering, Machine Learning, App Development
+**Languages:**  
+`Python` `SQL` `C++` `Dart`
+
+**Technologies & Tools:**  
+`PySpark` `TensorFlow` `Firebase` `BigQuery` `GCP` `AWS` `Flutter` `Git`
+
+**Domains:**  
+`Data Engineering` `Cloud Computing` `Machine Learning` `Mobile App Development`
 
 ---
 
+## 🏆 Certifications & Highlights
 
-## 📫 Contact
+- 📜 **Google Cloud Professional Data Engineer (Associate)**  
+- ☁️ **AWS Certified Cloud Practitioner**  
+- 💻 **Advanced Flutter Development – App Brewery**  
+- 🥈 **Google Cloud Silver League** – 35+ Skill Badges  
+- 🧩 **Technical Lead – UDAAN 2022**, raised ₹1.5L in sponsorships
 
-📧 sheetalahuja3890@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sheetal-ahuja)  
-💼 [GitHub](https://github.com/sheetal-ahuja)
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/sheetal-ahuja)  
+
+---
+
+> _“Focus on impact, not just output.”_
