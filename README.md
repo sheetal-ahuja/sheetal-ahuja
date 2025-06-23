@@ -25,7 +25,6 @@
 - ☁️ **AWS Certified Cloud Practitioner**  
 - 💻 **Advanced Flutter Development – App Brewery**  
 - 🥈 **Google Cloud Silver League** – 35+ Skill Badges  
-- 🧩 **Technical Lead – UDAAN 2022**, raised ₹1.5L in sponsorships
 
 ---
 
