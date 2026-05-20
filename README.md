@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sheetal Ahuja
 
-🎓 Final-year Computer Science student at TIET, Patiala  
+🎓 Final-year Computer Science student  
 🚀 Passionate about Data Engineering, Machine Learning & Cloud Technologies  
 🌱 Currently exploring scalable systems and intelligent data platforms
 
