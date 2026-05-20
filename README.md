@@ -28,10 +28,4 @@
 
 ---
 
-## 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/sheetal-ahuja)  
-
----
-
 > _“Focus on impact, not just output.”_
